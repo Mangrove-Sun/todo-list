@@ -31,7 +31,7 @@ body{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  backdrop-filter: blur(30px);
+  // backdrop-filter: blur(30px);
   header {
     padding-top: 50px;
     &.title {
